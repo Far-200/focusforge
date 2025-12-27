@@ -1,16 +1,58 @@
-# React + Vite
+# FocusForge ⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist Pomodoro timer and task manager designed to help you focus deeply, one session at a time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⏱️ 25-minute Pomodoro focus sessions with break cycles  
+- 📝 Simple task list to track what you’re working on  
+- 💾 Persistent tasks using browser localStorage  
+- 🎨 Clean, distraction-free UI with Tailwind CSS  
+- ⚡ Fast development setup using Vite + React  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React (JavaScript)  
+- **Styling:** Tailwind CSS  
+- **Build Tool:** Vite  
+- **State Management:** React Hooks  
+- **Storage:** Browser localStorage  
+
+---
+
+## 📸 Preview
+
+> _(Add a screenshot here once deployed)_
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/Far-200/focusforge.git
+cd focusforge
+npm install
+npm run dev
+Open your browser at:
+http://localhost:5173
+
+## 🎯 Motivation
+FocusForge was built as a lightweight productivity tool to encourage deep work without clutter or distractions.  
+The goal was simplicity, clarity, and calm focus.
+
+## 📌 Future Improvements
+- 🔔 Sound notification at session end  
+- 📊 Session statistics and history  
+- 🌙 Light/Dark mode toggle  
+- ☁️ Cloud sync for tasks  
+
+## 👤 Author
+**Farhaan Khan**  
+GitHub: [Far-200](https://github.com/Far-200)
+
+## 📄 License
+This project is licensed under the MIT License.
