@@ -6,21 +6,21 @@ A minimalist Pomodoro timer and task manager designed to help you focus deeply, 
 
 ## 🚀 Features
 
-- ⏱️ 25-minute Pomodoro focus sessions with break cycles  
-- 📝 Simple task list to track what you’re working on  
-- 💾 Persistent tasks using browser localStorage  
-- 🎨 Clean, distraction-free UI with Tailwind CSS  
-- ⚡ Fast development setup using Vite + React  
+- ⏱️ 25-minute Pomodoro focus sessions with break cycles
+- 📝 Simple task list to track what you’re working on
+- 💾 Persistent tasks using browser localStorage
+- 🎨 Clean, distraction-free UI with Tailwind CSS
+- ⚡ Fast development setup using Vite + React
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (JavaScript)  
-- **Styling:** Tailwind CSS  
-- **Build Tool:** Vite  
-- **State Management:** React Hooks  
-- **Storage:** Browser localStorage  
+- **Frontend:** React (JavaScript)
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **State Management:** React Hooks
+- **Storage:** Browser localStorage
 
 ---
 
@@ -41,18 +41,21 @@ Open your browser at:
 http://localhost:5173
 
 ## 🎯 Motivation
-FocusForge was built as a lightweight productivity tool to encourage deep work without clutter or distractions.  
+FocusForge was built as a lightweight productivity tool to encourage deep work without clutter or distractions.
 The goal was simplicity, clarity, and calm focus.
 
 ## 📌 Future Improvements
-- 🔔 Sound notification at session end  
-- 📊 Session statistics and history  
-- 🌙 Light/Dark mode toggle  
-- ☁️ Cloud sync for tasks  
+- 🔔 Sound notification at session end
+- 📊 Session statistics and history
+- 🌙 Light/Dark mode toggle
+- ☁️ Cloud sync for tasks
 
 ## 👤 Author
-**Farhaan Khan**  
+**Farhaan Khan**
 GitHub: [Far-200](https://github.com/Far-200)
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+Depreciated🫠
+```
